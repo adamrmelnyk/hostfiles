@@ -1,0 +1,13 @@
+# Title: Adamrmelnyk/hosts
+#
+# This hosts file is a list of hosts used for personal block lists
+# on various devices 
+#
+# Date: 18 September 2021
+#
+# Project home page: https://github.com/Adamrmelnyk/hostfiles
+#
+# ===============================================================
+
+0.0.0.0 yahoo.com
+0.0.0.0 google.com
